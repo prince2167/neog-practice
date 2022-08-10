@@ -136,3 +136,11 @@ and so on.. till roll 5
 12. Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar. Say if every character in name is worth 35 power points.Write a function which takes two objects and return the person with more power based on their name and power both.
 
 13. Create a to do list which will have one input and one click button, when user clicks on the button, the things which user has given input should be shown. also there should be inital things in any div or p element when we click on button, show that as well
+
+14.  Create a web app which should have input field and on clicking a button, text should increase by 2px. also note if font size is divisible by 5 then font color should be red else set it to green.
+
+15. create a web app which have two inputs which will have type as number only and one button. If input 1 is greater than input 2 font color should be green and vice versa 
+
+16. Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font? 
+
+17. Make a twitter like counter, on every single alphabet we type, value should decrease by one. set initial value of counter as 100 and start typing. on typing, value should decrease!
